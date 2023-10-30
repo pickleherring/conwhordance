@@ -105,7 +105,7 @@ if text:
             streamlit.markdown(f'* {before}**{whore}**{after}')
 
     else:
-        streamlit.markdown('You have no *whores*.')
+        streamlit.markdown('Sorry, you have no *whores*.')
 
 else:
 
