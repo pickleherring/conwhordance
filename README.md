@@ -1,3 +1,3 @@
-# heatmap
+# conwhordance
 
-Source code for the [heatmap app](https://share.streamlit.io/pickleherring/heatmap/main/app.py).
+Source code for the [conwhordance app](https://share.streamlit.io/pickleherring/conwhordance/main/app.py).
